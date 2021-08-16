@@ -14,7 +14,7 @@ THEN they fall in sequential order.
 WHEN I view the title element,
 THEN I find a concise, descriptive title.
 When we were finished, this is what our page looked like
-![alt text](Horiseon Snapshot.jpg)
+
 Here is a link to the site: https://saadsyed98.github.io/Horiseon/
 
 
