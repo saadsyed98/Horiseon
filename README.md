@@ -1,4 +1,4 @@
-# Horiseon
+# Horiseon Assignment
 Module 1 Assignment
 In this assignment we were given a mock up and some base code and were told to fix the websites landing page.
 Our goal was to update the code and make the website function better than before. 
